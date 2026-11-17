@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.tartamoto_pro.mantenimiento",
+        "sha256_cert_fingerprints": ["77:5E:6D:A7:D7:83:83:02:D0:5E:1A:A5:88:DF:B5:AC:A9:1C:28:39:17:6E:B7:97:D0:52:E5:A8:4D:A4:1D:13"]
+      }
+    }]
